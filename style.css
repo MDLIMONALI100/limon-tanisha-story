@@ -103,7 +103,7 @@ footer span {
   .container { padding: 20px; }
 }
 body {
-  background-image: url('background.jpg');
+  background-image: url('screenshot.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
