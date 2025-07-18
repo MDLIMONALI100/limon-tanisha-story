@@ -102,3 +102,9 @@ footer span {
   h1.glow { font-size: 2em; }
   .container { padding: 20px; }
 }
+body {
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
